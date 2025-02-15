@@ -1,0 +1,183 @@
+{
+    "restaurants": [
+        {
+            "id": "1",
+            "name": "Sabor Casero",
+            "rating": 4.5,
+            "hours": "12:00 - 23:00",
+            "image": "https://i.imgur.com/6kg25u7.png",
+            "dishes": [
+                {
+                    "id": 1.1,
+                    "name": "Milanesa Napolitana",
+                    "price": 12.000,
+                    "description": "Tomate, mozzarella, panceta, cebolla, oregano, pimiento y queso cheddar."
+                },
+                {
+                    "id": 1.2,
+                    "name": "Empanadas Criollas",
+                    "price": 8.000,
+                    "description": "Carne picada, queso crema, tomate, cebolla y perejil."
+                },
+                {
+                    "name": "Pizza Margherita",
+                    "price": 15.000,
+                    "description": "Masa, tomate, mozzarella, pimientos y cebolla."
+                },
+                {
+                    "name": "Tacos de Carne",
+                    "price": 13.000,
+                    "description": "Carne de ternera, cebolla, perejil, salsa de tomate y queso fresco."
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "name": "La Trattoria",
+            "rating": 4.8,
+            "hours": "11:30 - 22:30",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxz1FnH-HoK3Nkr6sMeBgHJBFKa2WSXhzptw&s",
+            "dishes": [
+                {
+                    "name": "Pasta Carbonara",
+                    "price": 18.000,
+                    "description": "Tomate, mozzarella, panceta, cebolla, oregano, pimiento y queso cheddar."
+                },
+                {
+                    "name": "Lasagna",
+                    "price": 25.000,
+                    "description": "Pollo, tomate, mozzarella, panceta, cebolla, oregano, pimiento, champiñones y queso cheddar."
+                },
+                {
+                    "name": "Tiramisú",
+                    "price": 20.000,
+                    "description": "Leche, azúcar, agua, crema y nata."
+                },
+                {
+                    "name": "Nigiri de Salmón",
+                    "price": 15.000,
+                    "description": "Salmón, cebolla, perejil, y queso fresco."
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "name": "Sushi Express",
+            "rating": 4.6,
+            "hours": "13:00 - 00:00",
+            "image": "https://cdn.dribbble.com/users/1238488/screenshots/15478349/media/f4be28362711093faf15d6a9bd163349.png",
+            "min_price": 20.000,
+            "dishes": [
+                {
+                    "name": "Rolls California",
+                    "price": 12,
+                    "description": "Carne de ternera, cebolla, perejil, y queso fresco."
+                },
+                {
+                    "name": "Nigiri de Salmón",
+                    "price": 15.000,
+                    "description": "Salmón, cebolla, perejil, y queso fresco."
+                },
+                {
+                    "name": "Tempura",
+                    "price": 18.000,
+                    "description": "Camaron, maduro, queso crema, y queso fresco."
+                },
+                {
+                    "name": "Makimono",
+                    "price": 16.000,
+                    "description": "Salmon ahumado, soya, arroz cocido, alga nori, aguacate"
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "name": "Burger House",
+            "rating": 4.3,
+            "hours": "12:00 - 02:00",
+            "image": "https://static.vecteezy.com/system/resources/previews/014/704/219/non_2x/the-burger-house-logo-design-vector.jpg",
+            "min_price": 8,
+            "dishes": [
+                {
+                    "name": "Cheeseburger",
+                    "price": 20.000,
+                    "description": "180gr de carne angus, queso cheddar, queso emmental, queso mozarella, queso azul, tomate, cebolla, pimiento y salsa de la casa."
+                },
+                {
+                    "name": "Maduro Burguer",
+                    "price": 18.000,
+                    "description": "200gr de carne angus, queso cheddar, maduro asado, tocineta, cebolla y salsa de la casa."
+                },
+                {
+                    "name": "Bufalo Burguer",
+                    "price": 6.000,
+                    "description": "250gr de carne angus, queso mozzarella, doble tocineta, aros de cebolla apanados, salsas, tomate, champiñones."
+                },
+                {
+                    "name": "Doble carne Burguer",
+                    "price": 22.000,
+                    "description": "400gr de carne angus, tocineta, queso doble crema, tomate, salsas, aros de cebolla apanados."
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "name": "Vegan Restaurant",
+            "rating": 4.7,
+            "hours": "10:00 - 21:00",
+            "image": "https://static.vecteezy.com/system/resources/previews/006/484/071/non_2x/vegan-restaurant-logo-on-white-background-free-vector.jpg",
+            "dishes": [
+                {
+                    "name": "Hamburguesa de Garbanzos",
+                    "price": 12.000,
+                    "description": "150gr de carne de garbanzos, queso cheddar, tomate, cebolla, pimiento, salsa de la casa."
+                },
+                {
+                    "name": "Tacos de Soya",
+                    "price": 15.000,
+                    "description": "100gr de carne de soya, queso crema, tomate, cebolla, pimiento, salsa de la casa."
+                },
+                {
+                    "name": "Ensalada de Quinoa",
+                    "price": 18.000,
+                    "description": "100gr de quinoa, tomate, cebolla, pimiento, salsa de la casa, aceitunas, cilantro y perejil."
+                },
+                {
+                    "name": "Empanadas de lentejas",
+                    "price": 10.000,
+                    "description": "Carne de lentejas, tomate, papa, cebolla, pimiento, salsa de la casa."
+                }
+            ]
+        },
+        {
+            "id": "6",
+            "name": "Parrilla Argentina",
+            "rating": 4.9,
+            "hours": "12:00 - 23:30",
+            "image": "https://i.pinimg.com/736x/a2/4d/fd/a24dfdfadbf4016914483f7d1b1e56ac.jpg",
+            "min_price": 18,
+            "dishes": [
+                {
+                    "name": "Asado",
+                    "price": 25.000,
+                    "description": "Carne de ternera, queso mozzarella, cebolla, perejil, pimentón y salsa de la casa."
+                },
+                {
+                    "name": "Choripán",
+                    "price": 18.000,
+                    "description": "Carne de ternera, queso mozzarella, cebolla, perejil, pimentón, salsa de la casa, aderezo de guacamole y perejil."
+                },
+                {
+                    "name": "Provoleta",
+                    "price": 22.000,
+                    "description": "Carne de ternera, queso mozzarella, cebolla, perejil, pimentón, salsa de la casa, aderezo de guacamole, perejil, y salsa de tomate."
+                },
+                {
+                    "name": "Tacos de Carne",
+                    "price": 15.000,
+                    "description": "Carne de ternera, queso mozzarella, cebolla, perejil, pimentón, salsa de la casa."
+                }
+            ]
+        }
+    ]
+}
